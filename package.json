@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "AngularJS for a big form",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LM",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-imagemin": "^2.2.0",
+    "gulp-jshint": "^1.9.2",
+    "gulp-minify-html": "^0.1.8",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^1.0.0-alpha.3",
+    "gulp-uglify": "^1.1.0",
+    "gulp-watch": "^4.1.1",
+    "imagemin-pngquant": "^4.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
+}
